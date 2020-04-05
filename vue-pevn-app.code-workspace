@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./../vue-auth-app"
+		},
+		{
+			"path": "./../vue-auth-api"
+		},
+	],
+	"settings": {}
+}
